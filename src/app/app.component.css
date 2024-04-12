@@ -1,0 +1,23 @@
+canvas {
+    margin: 0;
+  }
+  #tudo{
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    justify-content: center;
+    align-items: center;
+  }
+  .container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding: 3%;
+    overflow: hidden;
+    border: 0.3rem solid rgb(0, 85, 33);
+    border-radius: 2rem;
+  }
+  .divisoria{
+    width: auto;
+    height: 2rem;
+  }
